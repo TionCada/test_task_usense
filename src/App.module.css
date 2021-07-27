@@ -1,0 +1,22 @@
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.result p {
+    font-size: 80px;
+}
+
+.palindrom {
+    color: red;
+}
+
+.onlyNumbers {
+    color: blue;
+}
+
+.containZero {
+    display: none;
+}
